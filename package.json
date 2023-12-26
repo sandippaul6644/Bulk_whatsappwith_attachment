@@ -1,0 +1,20 @@
+{
+  "name": "Whatsapp",
+  "version": "1.0.0",
+  "description": "Whatsapp by Yash Thaker",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Yash Thaker",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
